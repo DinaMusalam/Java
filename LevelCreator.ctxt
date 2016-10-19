@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LevelCreator()
+comment0.text=\r\n\ Constructs\ a\ LevelCreator\r\n
+comment1.params=
+comment1.target=java.util.List\ createLevels()
+comment2.params=levelNumber
+comment2.target=java.lang.String[]\ createLevel(int)
+comment2.text=\r\n\ Create\ a\ level.\r\n\ \r\n\ @param\ levelNumber\ the\ level\ number\r\n\ @return\ a\ String[]\ representing\ the\ level\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BlueBlob()
+comment0.text=\r\n\ Constructs\ blue\ blob.\r\n\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ switchImage()
+comment2.text=\r\n\ Switch\ the\ image\ every\ second\ update\r\n
+numComments=3

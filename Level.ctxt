@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Level()
+comment0.text=\r\n\ Constructs\ a\ Level.\r\n
+comment1.params=level
+comment1.target=void\ buildLevel(java.lang.String[])
+comment1.text=\r\n\ Builds\ a\ level\ from\ the\ String[].\r\n\ \r\n\ @param\ level\ a\ String[]\ that\ represents\ the\ level.\r\n
+comment2.params=c
+comment2.target=greenfoot.Actor\ createActor(char)
+comment2.text=\r\n\ Create\ an\ Actor\ based\ on\ the\ parameter.\r\n\ <p>LEGEND<br>\r\n\ B\ \=\ BlueBlob<br>\r\n\ R\ \=\ BlueBrick<br>\r\n\ K\ \=\ GreenBlob<br>\r\n\ Z\ \=\ GreenBrick<br>\r\n\ P\ \=\ Platform<br>\r\n\ G\ \=\ Girl<br>\r\n\ D\ \=\ Door</p>\r\n\ \r\n\ @param\ c\ a\ char\ value\ representing\ the\ Actor\ we\ want\ to\ create\ or\ null\ if\ there\ was\ no\ Actor\ for\ the\ value.\ \r\n
+comment3.params=
+comment3.target=void\ nextLevel()
+comment3.text=\r\n\ Go\ to\ next\ level.\r\n
+numComments=4

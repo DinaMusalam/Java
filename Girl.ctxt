@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Girl()
+comment0.text=\r\n\ Constructs\ a\ Girl.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkDoor()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment3.text=\r\n\ Check\ if\ the\ user\ has\ pressed\ any\ keys\ used\ in\ the\ game.\ If\ so\ act\ accordingly.\r\n
+comment4.params=
+comment4.target=void\ checkForBlob()
+comment4.text=\r\n\ Check\ if\ the\ Girl\ walk\ throght\ BlueBlob,\ if\ so\ then\ the\ BlueBrick\ become\ dark.\ \r\n
+numComments=5
